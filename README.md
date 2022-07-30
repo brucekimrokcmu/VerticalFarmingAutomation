@@ -4,6 +4,8 @@ A two semester capstone project. <br>
 
 
 Our team is building a robot that traverse vertical farming environment to pollinate and harvest tomatotes.<br>
+(https://github.com/mrsd22bob) <br>
+
 I was responsible for manipulation and project management in the Spring 22 semester. <br>
 >* Use head camera to detect ArUco marker
 >* Subscribe to the ArUco marker topic, which is a twist coordinate published
