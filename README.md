@@ -4,6 +4,10 @@ A two semester capstone project. <br>
 
 
 Our team is building a robot that traverse vertical farming environment to pollinate and harvest tomatotes.<br>
+We implemented vertical farminig automation software on Stretch-RE1 platform.<br>
+We mainly used ROS as a middleware and used Python to code perception, navigation, and manipulation functions on each nodes and implemented corresponding launch files. 
+For customized harvestor and pollinator to be integrated, we modified URDF file of the robot and YAML file to control motors. <br>
+
 (https://github.com/mrsd22bob) <br>
 
 I was responsible for manipulation and project management in the Spring 22 semester. <br>
