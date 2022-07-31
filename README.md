@@ -1,7 +1,7 @@
 # VerticalFarmingAutomation
 
 A two semester capstone project. <br>
-
+[Paper Link](https://github.com/brucekimrokcmu/VerticalFarmingAutomation/blob/main/Vertical%20Farming%20Automation%20Spring%20Validation_report.pdf)
 
 Our team is building a robot that traverse vertical farming environment to pollinate and harvest tomatotes.<br>
 We implemented vertical farminig automation software on Stretch-RE1 platform.<br>
