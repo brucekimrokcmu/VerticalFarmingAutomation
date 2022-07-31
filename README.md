@@ -10,6 +10,11 @@ For customized harvestor and pollinator to be integrated, we modified URDF file 
 
 (https://github.com/mrsd22bob) <br>
 
+[![Full Video Link](https://user-images.githubusercontent.com/92174982/182005537-ad024d34-3d06-4e59-a782-2393c1c1064b.JPG)](https://youtu.be/rpTjnxoaoFM) <br>
+
+
+
+
 I was responsible for manipulation and project management in the Spring 22 semester. <br>
 >* Use head camera to detect ArUco marker
 >* Subscribe to the ArUco marker topic, which is a twist coordinate published
