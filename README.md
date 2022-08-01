@@ -9,6 +9,7 @@ We mainly used ROS as middleware and used Python to code perception, navigation,
 For the customized harvester and pollinator to be integrated, we modified the URDF file of the robot and the YAML file to configure motors. <br>
 [Code Link](https://github.com/mrsd22bob) <br>
 
+**Click to view the full video ↓**<br>
 [![Full Video Link](https://user-images.githubusercontent.com/92174982/182005537-ad024d34-3d06-4e59-a782-2393c1c1064b.JPG)](https://youtu.be/rpTjnxoaoFM) <br>
 
 
